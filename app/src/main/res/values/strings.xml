@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Test</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="base_de_cambio">Base de Cambio</string>
+    <string name="tipos_de_cambios_hoy">Tipos de Cambios hoy</string>
+    <string name="cad">CAD</string>
+    <string name="gbp">GBP</string>
+    <string name="mxn">MXN</string>
+    <string name="girando">Girando?</string>
+</resources>
